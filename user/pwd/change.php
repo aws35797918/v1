@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>更改密碼</title>
+		<title>更改會員密碼</title>
 		<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 	</head>
 	<body>
